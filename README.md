@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
@@ -40,10 +39,6 @@ Expected Behaviour:
 Bonus:
 
 - The tasks can be dragged and dropped to a new column.
-
-### Screenshot
-
-![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
 
 ### Links
 
