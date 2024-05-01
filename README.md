@@ -1,4 +1,4 @@
-# Frontend task management web app 
+# Epimax Frontend task management web app 
 
 ## Table of contents
 
